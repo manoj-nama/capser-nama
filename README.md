@@ -1,6 +1,6 @@
-# Nama
+# Casper-Nama
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Tweaked Casper theme for [Ghost](http://github.com/tryghost/ghost/).
 
 To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
